@@ -1,4 +1,4 @@
-# java version "21.0.2" 2024-01-16 LTS
+* java version "21.0.2" 2024-01-16 LTS
 
 * 2.2.1 HelloWord.java
 * 2.2.2 FirstDialog.java
