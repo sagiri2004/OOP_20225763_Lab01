@@ -1,3 +1,6 @@
+// PrintStars.java
+// 6.3
+
 import java.util.Scanner;
 
 public class PrintStars {

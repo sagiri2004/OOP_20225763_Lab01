@@ -1,4 +1,7 @@
-import javax.swing.JOptionPane; // JOptionPane la class trong package javax.swing dung de tao cac dialog box
+// ShowTwoNumbers.java
+// 2.2.4
+
+import javax.swing.JOptionPane;
 
 public class ShowTwoNumbers {
     public static void main(String[] args) {
