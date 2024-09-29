@@ -1,3 +1,5 @@
+// SolveEquations.java
+// 2.2.6
 
 import java.util.Scanner;
 
